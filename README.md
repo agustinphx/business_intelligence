@@ -29,5 +29,14 @@ ____________________________________
 ![5](https://user-images.githubusercontent.com/58674979/113515197-5ff56100-9549-11eb-973e-2017258b1431.png)
 ___________________
 ## Proyecto en Power BI.
-## Consignas: 
-### 
+## Analizar para el gerente Augusto Olivares: 
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Meses con peores ratios de devolución
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cantidad de devoluciones por País y forma de envío.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Participación de cada categoría en el total de devoluciones del año.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Descuento promedio que aplicó en cada Segmento de cliente, si es posible con corte trimestral.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> ¿Qué descuento promedio estamos dando en las 5 ciudades de menor venta?
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Estamos analizando lanzar una promoción de mesas en los 5 estados en los que hayamos vendido menor cantidad de estos artículos. ¿Podría prepararme esta información también?
+## Trabajo entregado:
+![Filtro Augusto Olivares](https://user-images.githubusercontent.com/58674979/113518593-afde2300-955d-11eb-9794-fa29c1b33470.png)
+
+
