@@ -1,4 +1,4 @@
-# Curso de BI UTN
+# Programa de BI UTN
 ## Programa (PDF): [Programa Business Intelligence V3.pdf](https://github.com/agustinrp/Business-Intelligence-UTN/files/6254845/Programa.Business.Intelligence.V3.pdf)
 ## Primeros trabajos entregados:
 ## Unidad III: Data Warehouse y Modelo dimensional<img src="https://img.icons8.com/clouds/40/000000/data-configuration.png"/>
