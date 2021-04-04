@@ -20,3 +20,6 @@ ____________________________________
 ## Trabajo entregado:
 ![4](https://user-images.githubusercontent.com/58674979/113515103-d5acfd00-9548-11eb-8366-0062cb96d297.png)
 
+
+## Unidad V: KPI’s y modelo de negocio <img src="https://img.icons8.com/flat-round/35/000000/account-3d.png"/>
+![5](https://user-images.githubusercontent.com/58674979/113515197-5ff56100-9549-11eb-973e-2017258b1431.png)
