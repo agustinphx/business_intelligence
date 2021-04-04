@@ -1,6 +1,6 @@
 # Programa de BI UTN
 ## Programa (PDF): [Programa Business Intelligence V3.pdf](https://github.com/agustinrp/Business-Intelligence-UTN/files/6254845/Programa.Business.Intelligence.V3.pdf)
-# Primeros trabajos entregados:
+# Algunos de los trabajos entregados:
 ## Unidad III: Data Warehouse y Modelo dimensional<img src="https://img.icons8.com/clouds/40/000000/data-configuration.png"/>
 ## Consignas:
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> El objetivo de esta actividad es practicar la estructura base de un datawarehouse multidimensional: el esquema estrella. 
@@ -27,3 +27,7 @@ ____________________________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Ud. está a cargo de la solución de Business Intelligence de una empresa, y le han encargado definir un set de KPIs que le permita a la empresa gestionar y detectar desvíos u oportunidades de mejora en su nueva área de e-commerce (tienda on-line).
 ## Trabajo entregado:
 ![5](https://user-images.githubusercontent.com/58674979/113515197-5ff56100-9549-11eb-973e-2017258b1431.png)
+___________________
+## Proyecto en Power BI.
+## Consignas: 
+### 
