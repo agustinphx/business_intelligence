@@ -10,7 +10,7 @@
 ![2](https://user-images.githubusercontent.com/58674979/113514748-d775c100-9546-11eb-98f1-b26f72437045.png)
 ![3](https://user-images.githubusercontent.com/58674979/113514760-e6f50a00-9546-11eb-82dd-3ba534e249d7.png)
 ____________________________________
-# Unidad IV: ETL<img src="https://img.icons8.com/nolan/25/data-configuration.png"/>
+# Unidad IV: ETL<img src="https://img.icons8.com/nolan/30/data-configuration.png"/>
 ## Consignas:
 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Esquematice un proceso ETL con todas las consideraciones que contemple el  correcto funcionamiento. 
