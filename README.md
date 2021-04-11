@@ -17,8 +17,8 @@ ____________________________________
 # Unidad IV: ETL<img src="https://img.icons8.com/nolan/30/data-configuration.png"/>
 ## Consignas:
 
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Esquematice un proceso ETL con todas las consideraciones que contemple el  correcto funcionamiento. 
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de extracción con los datos provienen de distintos orígenes y fuentes.
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Esquematice un proceso ETL en Excel con todas las consideraciones que contemple el  correcto funcionamiento. 
+### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de extracción con los datos que provienen de distintos orígenes y fuentes.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de transformación con el el objetivo de transformar los datos y aportar valor.
 
 ## Trabajo entregado:
