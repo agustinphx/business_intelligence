@@ -19,8 +19,8 @@ ____________________________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de carga, es cuando el sistema recibe los datos debidamente procesados y los almacena en el destino que se haya determinado.
 ## Trabajo entregado:
 ![4](https://user-images.githubusercontent.com/58674979/113515103-d5acfd00-9548-11eb-8366-0062cb96d297.png)
-
-____________________________________
+### Nota: Diagrama EER realizado en MySQL Workbench.
+___________________________________
 # Unidad V: KPI’s y modelo de negocio <img src="https://img.icons8.com/flat-round/35/000000/account-3d.png"/>
 ## Consignas:
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> El objetivo de esta actividad es practicar la definición de KPIs de negocio.
