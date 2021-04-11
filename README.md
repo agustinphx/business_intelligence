@@ -9,6 +9,10 @@
 ![1](https://user-images.githubusercontent.com/58674979/113514727-a9907c80-9546-11eb-9696-39e836fee913.png)
 ![2](https://user-images.githubusercontent.com/58674979/113514748-d775c100-9546-11eb-98f1-b26f72437045.png)
 ![3](https://user-images.githubusercontent.com/58674979/113514760-e6f50a00-9546-11eb-82dd-3ba534e249d7.png)
+
+
+## Nota: Diagrama EER realizado en MySQL Workbench.
+
 ____________________________________
 # Unidad IV: ETL<img src="https://img.icons8.com/nolan/30/data-configuration.png"/>
 ## Consignas:
@@ -19,7 +23,6 @@ ____________________________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de carga, es cuando el sistema recibe los datos debidamente procesados y los almacena en el destino que se haya determinado.
 ## Trabajo entregado:
 ![4](https://user-images.githubusercontent.com/58674979/113515103-d5acfd00-9548-11eb-8366-0062cb96d297.png)
-### Nota: Diagrama EER realizado en MySQL Workbench.
 ___________________________________
 # Unidad V: KPI’s y modelo de negocio <img src="https://img.icons8.com/flat-round/35/000000/account-3d.png"/>
 ## Consignas:
