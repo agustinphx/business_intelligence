@@ -38,5 +38,7 @@ ___________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Estamos analizando lanzar una promoción de mesas en los 5 estados en los que hayamos vendido menor cantidad de estos artículos. ¿Podría prepararme esta información también?
 ## Trabajo entregado:
 ![Filtro Augusto Olivares](https://user-images.githubusercontent.com/58674979/113518593-afde2300-955d-11eb-9794-fa29c1b33470.png)
+## Herramienta de visualización: Power BI
+
 
 
