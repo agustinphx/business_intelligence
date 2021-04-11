@@ -20,7 +20,7 @@ ____________________________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Esquematice un proceso ETL con todas las consideraciones que contemple el  correcto funcionamiento. 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de extracción con los datos provienen de distintos orígenes y fuentes.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de transformación con el el objetivo de transformar los datos y aportar valor.
-### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Defina el proceso de carga, es cuando el sistema recibe los datos debidamente procesados y los almacena en el destino que se haya determinado.
+
 ## Trabajo entregado:
 ![4](https://user-images.githubusercontent.com/58674979/113515103-d5acfd00-9548-11eb-8366-0062cb96d297.png)
 ___________________________________
