@@ -1,4 +1,4 @@
-# Programa de BI UTN    <img src="https://img.icons8.com/plasticine/40/000000/business-report.png"/>
+# Programa de BI UTN    <img src="https://img.icons8.com/plasticine/50/000000/business-report.png"/>
 ## Programa (PDF): [Programa Business Intelligence V3.pdf](https://github.com/agustinrp/Business-Intelligence-UTN/files/6254845/Programa.Business.Intelligence.V3.pdf)
 # Algunos trabajos entregados:
 # Unidad III: Data Warehouse y Modelo dimensional<img src="https://img.icons8.com/clouds/40/000000/data-configuration.png"/>
