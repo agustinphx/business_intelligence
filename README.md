@@ -28,7 +28,7 @@ ____________________________________
 ## Trabajo entregado:
 ![5](https://user-images.githubusercontent.com/58674979/113515197-5ff56100-9549-11eb-973e-2017258b1431.png)
 ___________________
-# Proyecto en Power BI <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
+# Proyecto de BI
 ## Analizar para el gerente Augusto Olivares: 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Meses con peores ratios de devolución.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cantidad de devoluciones por País y forma de envío.
@@ -38,7 +38,9 @@ ___________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Estamos analizando lanzar una promoción de mesas en los 5 estados en los que hayamos vendido menor cantidad de estos artículos. ¿Podría prepararme esta información también?
 ## Trabajo entregado:
 ![Filtro Augusto Olivares](https://user-images.githubusercontent.com/58674979/113518593-afde2300-955d-11eb-9794-fa29c1b33470.png)
-## Herramienta de visualización: Power BI
+_____________________
+## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
+https://powerbi.microsoft.com/es-es/desktop/
 
 
 
