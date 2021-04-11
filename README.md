@@ -28,7 +28,7 @@ ____________________________________
 ## Trabajo entregado:
 ![5](https://user-images.githubusercontent.com/58674979/113515197-5ff56100-9549-11eb-973e-2017258b1431.png)
 ___________________
-# Proyecto de BI
+# Proyecto de BI <img src="https://img.icons8.com/color/50/000000/business-report.png"/>
 ## Analizar para el gerente Augusto Olivares: 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Meses con peores ratios de devolución.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cantidad de devoluciones por País y forma de envío.
