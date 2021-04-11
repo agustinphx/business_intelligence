@@ -38,6 +38,8 @@ ___________________
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Estamos analizando lanzar una promoción de mesas en los 5 estados en los que hayamos vendido menor cantidad de estos artículos. ¿Podría prepararme esta información también?
 ## Trabajo entregado:
 ![Filtro Augusto Olivares](https://user-images.githubusercontent.com/58674979/113518593-afde2300-955d-11eb-9794-fa29c1b33470.png)
+
+### Nota: Se añadió un ''Filtro interactivo'' para poder seleccionar el gerente que se desee y filtrar la información  correspondiente al mismo. Este tipo de filtro es muy útil porque si tuvieramos por ejemplo 25 gerentes para analizar, seria súper ineficiente crear 25 veces todas las configuraciones para las visulizaciones necesarias cuando lo podríamos hacer de 1 vez para todos en  general.
 _____________________
 ## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
