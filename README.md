@@ -6,6 +6,7 @@
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> El objetivo de esta actividad es practicar la estructura base de un datawarehouse multidimensional: el esquema estrella. 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Ud. está a cargo de la solución de Business Intelligence de una empresa, y le han encargado diseñar un modelo estrella para satisfacer los requerimientos de información de la nueva área de e-commerce (tienda on-line). Debe explicar brevemente el modelo y sus conclusiones.
 ## Trabajo entregado: 
+![Unidad III](https://github.com/agustinphx/Business-Intelligence-UTN/assets/58674979/c309a891-2e19-4211-bce8-12b4832e5aaf)
 ![2](https://user-images.githubusercontent.com/58674979/113514748-d775c100-9546-11eb-98f1-b26f72437045.png)
 ![3](https://user-images.githubusercontent.com/58674979/113514760-e6f50a00-9546-11eb-82dd-3ba534e249d7.png)
 
