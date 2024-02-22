@@ -1,6 +1,6 @@
 # Programa de BI UTN    <img src="https://img.icons8.com/plasticine/50/000000/business-report.png"/>
 ## Programa (PDF): [Programa Business Intelligence V3.pdf](https://github.com/agustinrp/Business-Intelligence-UTN/files/6254845/Programa.Business.Intelligence.V3.pdf)
-# Algunos trabajos entregados:
+# Algunos proyectos realizados:
 # Unidad III: Data Warehouse y Modelo dimensional<img src="https://img.icons8.com/clouds/40/000000/data-configuration.png"/>
 ## Consignas:
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> El objetivo de esta actividad es practicar la estructura base de un datawarehouse multidimensional: el esquema estrella. 
@@ -32,8 +32,8 @@ ___________________________________
 ![Unidad V](https://github.com/agustinphx/Business-Intelligence-UTN/assets/58674979/01db24de-591d-493a-862b-91510b5749d0)
 ___________________
 # Proyecto de BI <img src="https://img.icons8.com/color/50/000000/business-report.png"/>
-## Fuente de Datos: [Supertienda.xlsx](https://github.com/agustinrp/Business-Intelligence-UTN/files/6291233/Supertienda.xlsx)
-## Realizar un análisis y visualización de los registros para uno de los usuarios de negocio: 
+## Fuente de datos: [Supertienda.xlsx](https://github.com/agustinrp/Business-Intelligence-UTN/files/6291233/Supertienda.xlsx)
+## Realizar un análisis y visualización de los datos seleccionando uno de los usuarios de negocio: 
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Meses con peores ratios de devolución.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Cantidad de devoluciones por País y forma de envío.
 ### <img src="https://img.icons8.com/plumpy/15/000000/sphere.png"/> Participación de cada categoría en el total de devoluciones del año.
