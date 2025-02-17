@@ -51,8 +51,16 @@ ___________________
 
 #### Nota: Se añadió un "Filtro interactivo" para poder seleccionar el gerente que se desee y filtrar la información  correspondiente al mismo. Este tipo de filtro es muy útil porque si tuvieramos por ejemplo 30 gerentes para analizar, seria súper ineficiente crear y adaptar 30 veces todas las configuraciones necesarias para las visulizaciones cuando lo podríamos hacer de 1 vez para todos en  general.
 _____________________
-## Herramienta de visualización: Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
+###  ‎ ‎ ‎ ‎ ‎
+
+## Herramientas utilizadas
+ 
+### MySQL <img width="40" height="40" src="https://img.icons8.com/external-those-icons-flat-those-icons/40/external-MySQL-programming-and-development-those-icons-flat-those-icons.png" alt="external-MySQL-programming-and-development-those-icons-flat-those-icons"/>
+https://www.mysql.com/
+
+### Power BI  <img src="https://img.icons8.com/dusk/36/000000/power-bi.png"/>
 https://powerbi.microsoft.com/es-es/desktop/
 
 
-
+### Excel ![icons8-ms-excel-48](https://github.com/agustinphx/Gestion_de_costos/assets/58674979/e103657c-e678-42a2-9bfa-75ccc4beea13)
+https://www.microsoft.com/es-ar/microsoft-365/excel)
